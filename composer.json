@@ -1,5 +1,8 @@
 {
-    "name": "symfony/dependency-injection",
+    "name": "symfony@iglue/dependency-injection",
+    "replace": {
+        "symfony/dependency-injection": "v3.2.13"
+    },
     "type": "library",
     "description": "Symfony DependencyInjection Component",
     "keywords": [],
